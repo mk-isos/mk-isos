@@ -13,7 +13,7 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://github.io/mk-isos">
+  <a href="https://github.com/mk-isos">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
 </span>
