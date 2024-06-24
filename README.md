@@ -75,7 +75,7 @@ Soon ```(03/2021 ~ Present)``` (, Cheongju)
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
 </span>
 <span>
-    <img src="https://camo.githubusercontent.com/00980730f1ba2289a81696e8e4ea5e53e993a55f8f87691118192481bfb69cd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7953716c266c6f676f436f6c6f723d7768697465"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 </span>
 
 
