@@ -77,6 +77,13 @@ Soon ```(03/2021 ~ Present)``` (, Cheongju)
 <span>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 </span>
+<span>
+    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+</span>
+
 
 
 
