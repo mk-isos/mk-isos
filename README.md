@@ -4,7 +4,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Junyoung+Park;Research+on+deep+learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+MoonKi Kim;Fail+Fast+Positve+Influence" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
@@ -13,7 +13,7 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://mk-isos.github.io">
+  <a href="https://github.io/mk-isos">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
 </span>
@@ -23,7 +23,7 @@
   </a>
 </span>
 <span>
-  <a href="https://www.instagram.com/mkisos/">
+  <a href="https://www.instagram.com/mk_isos/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
