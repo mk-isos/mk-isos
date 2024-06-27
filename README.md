@@ -102,7 +102,6 @@ Soon
     <img src="https://github-readme-stats.vercel.app/api?username=mk-isos&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mk-isos&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mkisos&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
 
 <!-- My snake -->
 <img src="https://github.com/mk-isos/mk-isos/blob/output/github-snake.svg" width="100%">
