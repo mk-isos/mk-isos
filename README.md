@@ -86,12 +86,6 @@ Chungbuk National University ```(03/2021 ~ Present)``` (Cheongju, Korea)
 </span>
 
 
-
-
-
-## Publications
-Soon
-
 </div>
 </div>
 
