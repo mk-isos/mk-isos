@@ -49,6 +49,8 @@ Interested in Frontend, Backend, and AI.
 ## WORK EXPERIENCE
 Pixeleye Co., Ltd. ```(06/24/2024 ~ 07/19/2024)``` (Intern)
 
+## PORTFOLIO
+
 ## EDUCATION
 Seonggwang High School ```(03/2018 ~ 02/2020)``` (Daegu, Korea)  
 Chungbuk National University ```(03/2021 ~ Present)``` (Cheongju, Korea)  
