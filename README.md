@@ -45,7 +45,6 @@
 Studying and gaining experience in various fields of development.  
 Interested in Frontend, Backend, and AI.
 
-
 ## WORK EXPERIENCE
 Pixeleye Co., Ltd. ```(06/24/2024 ~ 07/19/2024)``` (Intern)
 
@@ -66,6 +65,8 @@ Pixeleye Co., Ltd. ```(06/24/2024 ~ 07/19/2024)``` (Intern)
 ## EDUCATION
 Seonggwang High School ```(03/2018 ~ 02/2020)``` (Daegu, Korea)  
 Chungbuk National University ```(03/2021 ~ Present)``` (Cheongju, Korea)  
+
+## VARIOUS ACTIVITIES
 
 ## ADDITIONAL SKILLS
 <span>
