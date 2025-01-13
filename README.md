@@ -66,7 +66,6 @@ Seonggwang High School ```(03/2018 ~ 02/2020)``` (Daegu, Korea)
 Chungbuk National University ```(03/2021 ~ Present)``` (Cheongju, Korea)  
 
 ## VARIOUS ACTIVITIES
-## VARIOUS ACTIVITIES
 - **2022 충북대학교 나비 총학생회**  
 - **2022 충북대학교 아벨리오 개신대동체 축제준비위원회 (무대관리팀)**  
 - **2023 성암야간학교 임원진**  
