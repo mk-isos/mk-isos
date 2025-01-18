@@ -68,7 +68,7 @@ Chungbuk National University ```(03/2021 ~ Present)``` (Cheongju, Korea)
 ## VARIOUS ACTIVITIES
 - **2022 충북대학교 나비 총학생회**  
 - **2022 충북대학교 아벨리오 개신대동체 축제준비위원회 (무대관리팀)**  
-- **2023 성암야간학교 임원진**  
+- **2023 성암야간학교(봉사) 임원진**  
 - **2022 ~ 2024 소프트웨어 학술동아리 네스트넷 임원진**  
 
 ## ADDITIONAL SKILLS
