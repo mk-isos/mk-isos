@@ -13,12 +13,7 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://github.com/mk-isos">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:mkisos@naver.com">
+  <a href="mailto:mkisos7900@naver.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
