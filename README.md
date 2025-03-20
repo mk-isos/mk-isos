@@ -101,7 +101,11 @@ Chungbuk National University ```(03/2021 ~ Present)``` (Cheongju, Korea)
 
 <br><br>
 
+<!-- 이 부분은 주석입니다. 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkisos)](https://solved.ac/mkisos/)
+
+마크다운에서 보이지 않습니다. -->
 
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmk-isos&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
