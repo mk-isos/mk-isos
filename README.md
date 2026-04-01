@@ -9,8 +9,8 @@
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-<details>
     https://markus-portfolio-mu.vercel.app/
+<details>
 <summary>About Me</summary>
 <br><br>
 <span>
