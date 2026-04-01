@@ -10,6 +10,7 @@
 <br>
 <!-- My CV/resume -->
 <details>
+    https://markus-portfolio-mu.vercel.app/
 <summary>About Me</summary>
 <br><br>
 <span>
