@@ -9,7 +9,12 @@
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-    https://markus-portfolio-mu.vercel.app/
+   <div align="center">  
+  <br>
+  <a href="https://markus-portfolio-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Markus-Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 <details>
 <summary>About Me</summary>
 <br><br>
